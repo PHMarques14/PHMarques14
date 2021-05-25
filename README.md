@@ -11,5 +11,3 @@ Meu nome é Pedro Henrique, tenho 16 anos e gosto muito de programação! Moro n
 💌 **Entre em contato comigo por aqui:** ⤵️
 
 [Instagram](https://www.instagram.com/pedrohmsd14/?hl=en) | [WhatsApp](https://wa.me/5521996664361)
-
-.
