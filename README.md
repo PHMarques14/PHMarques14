@@ -10,4 +10,4 @@ Meu nome é Pedro Henrique, tenho 17 anos, filho de Deus e seguidor de Jesus. Go
 
 💌 **Entre em contato comigo por aqui:** ⤵️
 
-[Instagram](https://www.instagram.com/pedrohmsd14/?hl=en) | [Email](<a href="mailto:voce@seusite.com">fenenthic14@gmail.com</a>)
+[Instagram](https://www.instagram.com/pedrohmsd14/?hl=en) | [Email](https://mailto:fenenthic14@gmail.com)
