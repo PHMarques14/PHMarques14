@@ -2,7 +2,7 @@
 ![logo pedro](https://media.giphy.com/media/mHPoJZIU7XPm1HFxDq/giphy.gif)
 ## Sobre mim
 ---
-Meu nome é Pedro Henrique, tenho 16 anos e gosto muito de programação! Moro na cidade de Resende e atualmente estudo no instituição Firjan SESI e Firjan SENAI cujas unidades são na minha cidade.
+Meu nome é Pedro Henrique, tenho 17 anos, filho de Deus e seguidor de Jesus. Gosto muito de programação! Moro na cidade de Resende e atualmente estudo no instituição Firjan SESI e Firjan SENAI cujas unidades são na minha cidade.
 
 👨‍💻 **Linguagens:** Atualmente estudo as linguagens -> **Python - JavaScript - HTML - CSS**
 
@@ -10,4 +10,4 @@ Meu nome é Pedro Henrique, tenho 16 anos e gosto muito de programação! Moro n
 
 💌 **Entre em contato comigo por aqui:** ⤵️
 
-[Instagram](https://www.instagram.com/pedrohmsd14/?hl=en) | [WhatsApp](https://wa.me/5521996664361)
+[Instagram](https://www.instagram.com/pedrohmsd14/?hl=en) | [Email](<a href="mailto:voce@seusite.com">fenenthic14@gmail.com</a>)
